@@ -115,7 +115,7 @@ This skill covers 95% of common Svelte 5 and SvelteKit development needs. You mi
 
 ## Updates
 
-Svelte 5 is actively evolving. This skill was last updated: **November 2024**
+Svelte 5 is actively evolving. This skill was last updated: **November 2025**
 
 Notable recent features covered:
 - Svelte 5.25: Direct override of `$derived` values

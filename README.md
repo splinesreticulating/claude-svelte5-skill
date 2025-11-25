@@ -51,7 +51,7 @@ mkdir -p .claude/skills/svelte5-development
 2. Download the skill file:
 ```bash
 curl -o .claude/skills/svelte5-development/SKILL.md \
-  https://raw.githubusercontent.com/YOUR_USERNAME/claude-svelte5-skill/main/SKILL.md
+  https://raw.githubusercontent.com/splinesreticulating/claude-svelte5-skill/main/SKILL.md
 ```
 
 3. (Optional) Disable the Svelte MCP server to save tokens:
@@ -66,7 +66,7 @@ curl -o .claude/skills/svelte5-development/SKILL.md \
 ```bash
 # Clone into your project's .claude/skills directory
 cd your-project
-git clone https://github.com/YOUR_USERNAME/claude-svelte5-skill \
+git clone https://github.com/splinesreticulating/claude-svelte5-skill \
   .claude/skills/svelte5-development
 ```
 

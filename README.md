@@ -129,7 +129,7 @@ Found a pattern that should be included? Have a suggestion? Please open an issue
 
 ## Credits
 
-Created by extracting and organizing content from the official [Svelte documentation](https://svelte.dev) and [SvelteKit documentation](https://kit.svelte.dev).
+Created by extracting and organizing content from the official [Svelte documentation](https://svelte.dev/docs) and [SvelteKit documentation](https://svelte.dev/docs/kit).
 
 ## License
 
